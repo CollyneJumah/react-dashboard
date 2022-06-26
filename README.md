@@ -48,3 +48,10 @@ Installation guide:
 ```
 npm install @mui/material @emotion/react @emotion/styled
 ```
+
+## Layout design
+We require 3-columns therefore using Grid Layout design, we need to specify grid template column as:
+
+```
+  grid-template-columns: 11rem auto 20rem;
+```
