@@ -2,7 +2,7 @@ import './maincontent.css'
 
 const MainContent =()=>{
     return (
-        <div>
+        <div className='main-dashboard'>
             <h2>Main Content</h2>
         </div>
     )

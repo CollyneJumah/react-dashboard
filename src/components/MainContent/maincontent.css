@@ -1,0 +1,7 @@
+.main-dashboard{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    background: #fff;
+    overflow: hidden;
+}
