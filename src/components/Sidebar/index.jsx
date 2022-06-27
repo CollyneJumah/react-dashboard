@@ -10,8 +10,8 @@ const Sidebar = ()=>{
     return (
         <div className='sidebar'>
             <div className="logo">
-                <img src={Logo} alt="logo" width={120} />
-                <span>Tawi Design</span>
+                <img src={Logo} alt="logo" />
+                {/* <span>Tawi Design</span> */}
             </div>
             <div className="menus">
                {

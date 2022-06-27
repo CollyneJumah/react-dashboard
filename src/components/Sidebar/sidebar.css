@@ -15,8 +15,10 @@
     /* height: 4%; */
 }
 .logo>img{
-    width: 5rem;
-    height: 3rem;
+    width: 100px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
 }
 
 /* menus  style*/
