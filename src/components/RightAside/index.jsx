@@ -5,7 +5,7 @@ import './rightaside.css'
 const RightAside = () =>{
     return (
         <div className='right-sidebar'>
-           <h3>Customer Reviews</h3>
+           <h3>Care History</h3>
                <CareHistory />
            <div>
                
