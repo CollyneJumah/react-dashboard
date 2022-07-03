@@ -1,0 +1,10 @@
+.parentContainer{
+    width: 95%;
+    height: 100vh;
+    background: white;
+    border-radius: 0.7rem;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    font-size: 13px;
+}
