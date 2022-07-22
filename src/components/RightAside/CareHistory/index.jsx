@@ -11,14 +11,12 @@ const CareHistory = () =>{
                             <img src={careHistory.image} alt="" />
                             <div className="noti">
                                 <div style={{marginBottom:"0.5rem"}}>
-                                    <span>{careHistory.name}</span>
-                                    <span>{careHistory.year}</span>
+                                    <span>Collins Jumah</span>
+                                    <span>1973</span>
                                 </div>
                             </div>
                             <div>
-                               
-                                <span>{careHistory.time}</span>
-
+                                <span>Mon, July 2022</span>
                             </div>
                         </div>
 
